@@ -5,8 +5,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Social App</title>
-<meta name="google-adsense-account" content="ca-pub-5968278007440676">
-<style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5968278007440676"
+     crossorigin="anonymous"></script>
 
 *{
     margin:0;
