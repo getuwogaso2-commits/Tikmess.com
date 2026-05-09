@@ -1,12 +1,13 @@
-# Tikmess.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Social App</title>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5968278007440676"
+<meta name="google-adsense-account" content="ca-pub-5968278007440676">
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5968278007440676"
      crossorigin="anonymous"></script>
+<style>
 
 *{
     margin:0;
